@@ -1,1 +1,1 @@
-this is for tampermonkey if you did not realise
+This is a tampermonkey extension for duolingo.
